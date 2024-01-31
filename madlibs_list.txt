@@ -17,6 +17,6 @@
 17. Unit of Time: years 
 18. Different Activity: driving
 19. Adjective: speedy
-20. Vehicle: pickup truck
-21. Your Name: Wesley
+20. Vehicle: 
+21. Your Name: 
 
